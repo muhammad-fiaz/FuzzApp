@@ -37,7 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   nb_utils: ^6.1.2
   intl: ^0.17.0
-  flutter_vector_icons: ^1.0.0
+  flutter_vector_icons: ^2.0.0
   google_fonts: ^6.1.0
   share: ^2.0.4
   url_launcher: ^6.0.3
