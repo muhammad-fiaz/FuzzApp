@@ -1,6 +1,6 @@
 <div align="center">
     
-<img src="https://github.com/muhammad-fiaz/FuzzApp/assets/75434191/8ea7b83f-0eaa-4d97-b52b-20eb33bdbe52" >
+![demo preview](https://github.com/muhammad-fiaz/FuzzApp/assets/75434191/8ea7b83f-0eaa-4d97-b52b-20eb33bdbe52)
 
 [![CodeQL](https://github.com/muhammad-fiaz/FuzzApp/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/muhammad-fiaz/FuzzApp/actions/workflows/github-code-scanning/codeql)
 [![Maintainer](https://img.shields.io/badge/Maintainer-muhammad--fiaz-blue)](https://github.com/muhammad-fiaz)
