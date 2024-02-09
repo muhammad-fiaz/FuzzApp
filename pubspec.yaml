@@ -46,7 +46,7 @@ dependencies:
   package_info: ^2.0.2
   cached_network_image: ^3.1.0
   flutter_svg: ^0.22.0
-  dots_indicator: ^2.0.0
+  dots_indicator: ^3.0.0
   clippy_flutter: ^2.0.0-nullsafety.1
 
 dev_dependencies:
