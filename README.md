@@ -1,8 +1,20 @@
-# Fuzz
+<div align="center">
+    
+<img src="https://github.com/muhammad-fiaz/FuzzApp/assets/75434191/8ea7b83f-0eaa-4d97-b52b-20eb33bdbe52" >
 
+[![CodeQL](https://github.com/muhammad-fiaz/FuzzApp/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/muhammad-fiaz/FuzzApp/actions/workflows/github-code-scanning/codeql)
+[![Maintainer](https://img.shields.io/badge/Maintainer-muhammad--fiaz-blue)](https://github.com/muhammad-fiaz)
+[![Pull Requests](https://img.shields.io/github/issues-pr/muhammad-fiaz/FuzzApp)](https://github.com/muhammad-fiaz/FuzzApp/pulls)
+[![Issues](https://img.shields.io/github/issues/muhammad-fiaz/FuzzApp)](https://github.com/muhammad-fiaz/FuzzApp/issues)
+[![License](https://img.shields.io/github/license/muhammad-fiaz/FuzzApp)](https://github.com/muhammad-fiaz/FuzzApp/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/muhammad-fiaz/FuzzApp)](https://github.com/muhammad-fiaz/FuzzApp/commits/main)
+
+# Fuzz
+</div>
 Fuzz App is a revolutionary open-source Flutter UI designed to streamline the food ordering process and enhance the dining experience for users worldwide. With a sleek and intuitive interface, Fuzz App offers a seamless platform for users to browse menus, place orders, and track deliveries with ease.
 
 
+**Note: This Flutter Template Contains Placeholder Content for Demo Purposes. This project is still in active development. If you want to add or improve features, make sure to fork and contribute to this repo. Don't forget to star 🌟 the repo if you like it!**
 
 ## Getting Started
 
