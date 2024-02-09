@@ -11,8 +11,11 @@
 
 # Fuzz
 </div>
+
 Fuzz App is a revolutionary open-source Flutter UI designed to streamline the food ordering process and enhance the dining experience for users worldwide. With a sleek and intuitive interface, Fuzz App offers a seamless platform for users to browse menus, place orders, and track deliveries with ease.
 
+
+<br/>
 
 **Note: This Flutter Template Contains Placeholder Content for Demo Purposes. This project is still in active development. If you want to add or improve features, make sure to fork and contribute to this repo. Don't forget to star 🌟 the repo if you like it!**
 
