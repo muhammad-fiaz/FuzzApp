@@ -79,10 +79,8 @@ This project is licensed under the [Apache 2.0 License](./LICENSE). See [LICENSE
 If you find this template helpful, consider giving it a star. Your support is appreciated! 💙
 
 Also, if you'd like to offer more support, you can:
-- [BuyMeACoffee](https://buymeacoffee.com/muhammadfiaz)
-- [Patreon](https://patreon.com/muhammadfiaz)
-- [Ko-Fi](https://ko-fi.com/muhammadfiaz)
+
 - [Sponsor on GitHub](https://github.com/sponsors/muhammad-fiaz)
-- [Open Collective Backer](https://opencollective.com/muhammadfiaz)
+
 
 ## Happy Coding ❤️
