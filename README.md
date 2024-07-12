@@ -9,9 +9,9 @@
 [![License](https://img.shields.io/github/license/muhammad-fiaz/FuzzApp)](https://github.com/muhammad-fiaz/FuzzApp/blob/main/LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/muhammad-fiaz/FuzzApp)](https://github.com/muhammad-fiaz/FuzzApp/commits/main)
 [![Follow me on GitHub](https://img.shields.io/github/followers/muhammad-fiaz?label=Follow&style=social)](https://github.com/muhammad-fiaz)
-<a href="https://discord.gg/uRkZ5cHf" target="_blank">
+<a href="https://discord.com/invite/eMcMEA6Jce" target="_blank">
   <img
-    src="https://dcbadge.limes.pink/api/server/https://discord.gg/uRkZ5cHf?style=shield"
+    src="https://dcbadge.limes.pink/api/server/https://discord.com/invite/eMcMEA6Jce?style=shield"
     alt="discord invite"
   />
 </a>
